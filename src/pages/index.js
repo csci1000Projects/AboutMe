@@ -26,6 +26,14 @@ export default function Home() {
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
+          <a href='/jordynRabinowitz' className='card'>
+            <h3>About Jordyn Page &rarr;</h3>
+            <p>Click here to navigate to Jordyn's about me</p>
+          </a>
+          <a href='/natalieKing' className='card'>
+            <h3>About Natalie Page &rarr;</h3>
+            <p>Click here to navigate to Natalie's about me</p>
+          </a>
           <a
             href='https://github.com/wangalec/website-template'
             className='card'>
